@@ -1,10 +1,12 @@
 {
 	"data": {
-		"bin/cli/index.js": "koTQBBmiv/UxLf6L/70ucWENOiyxwffujsByDao2YT4=",
+		"bin/cli/index.js": "mGYmhY0Ta3YZ7nFtME//2G/tY6kBe08NWT/iHs+khHg=",
 		"bin/cli/servers.json": "kphe+DbawJxxN6n980uOtkgQLvnzs66mqonEF1jOh3k=",
 		"bin/configurator.js": "gorzpsG+Fxzv7wMY5leA+fKn1/lYNGkG7epKYv+b9mo=",
 		"bin/genmanifest.js": "RmnAlNEf7Mitl31MB9UQ4lFt6u3AG3BzGYpVwfpY3WY=",
-		"Config.bat": "LBf42XjOo5RCKKKnHUThDL+MZVv+J/ar0XGCngy1XKU=",
+		"bin/node.exe": "s7IhFkMCnunntDoEzBQ7dbm9Dm36kXsYKbzGXYQEk8E=",
+		"bin/wait-for-exit.js": "yjnUBgqy/AZ3KTSkake31uPyATAN7Dli0IsmWVVA9Co=",
+		"Config.bat": "KRzjvz3pD9uEJpYyI0WvM5Qfw9xtmga2ZdBODocoIYw=",
 		"mods/bugfix/chat-sanitizer.js": "hvoZ5qpwI6SsN/kANW/kYT/T2yY9NE4GzI4JW2xDoPc=",
 		"mods/bugfix/index.js": "XKp/svIJRC8H0tXA7SXuBpSA9ABrFo4MwBcRQOBWG+c=",
 		"mods/bugfix/manifest.json": "qDmV2AW+4oSpFdPiORuX6yRjZ5vHIdDyj4215rd0nMQ=",
@@ -1588,12 +1590,12 @@
 		"node_modules/tera-proxy-game/package.json": "GcWGH1lwiYRPUWfS6QH0YXsDR40R6f6wTAoMlMQ7wUY=",
 		"node_modules/tera-proxy-game/packetizer.js": "caO/HzTr8VrmSy5ZSwBzOu2HmwbvbD/St/gxECjLQa0=",
 		"node_modules/tera-vec3.js": "tHokEIQEhIhWp9oLwUVZeH47soOLJkDFBSqFo8koYFU=",
-		"node_modules/updater/index.js": "xchz5nEWf+qIaGF2QX0LJ4ZxiQBCIK8UMWtk+1g/2dk=",
+		"node_modules/updater/index.js": "5jct9jq93ZqVl+rPKFi/1fWSH13JwILheozp0bfZfOU=",
 		"node_modules/updater/package.json": "CilS25rKqWhEJmuv4crgxEpHa94pBhKHLWM3vRigQSE=",
 		"package.json": "RZhBLbBfXailywB81t+nTKwfdlA4gwPg9NrmXanFPx8=",
 		"README.md": "+wDljYXRP5rgNzulS1pvqa71i7Gin7NTV47eDis4QZo=",
-		"settings/_tera-proxy_.json": "sRdFDdL0ks8EBvMMksbF5Kmk620SK1v9OqnxTgaC7Mw=",
-		"TeraProxy.bat": "yEqHXwL1BxYyuPv+/4b9U2Ns94FGA40pOXAUXItygzk=",
+		"settings/_tera-proxy_.json": "fIzW5sakvVkTmsdXtfFPnlMuB+DkjTzk1xU2Dy6j/3E=",
+		"TeraProxy.bat": "IsiX+1A//IfVlWzA3hD/ZHoiZHiktOTqZ1gj/NzXW/s=",
 		"Uninstall.bat": "OdpJJjueZqZ1zboXZLe9mqRIsAp3eK8tEDwI66gFDeg="
 	}
 }
