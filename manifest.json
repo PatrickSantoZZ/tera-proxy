@@ -6,7 +6,7 @@
 		"bin/genmanifest.js": "RmnAlNEf7Mitl31MB9UQ4lFt6u3AG3BzGYpVwfpY3WY=",
 		"bin/node.exe": "s7IhFkMCnunntDoEzBQ7dbm9Dm36kXsYKbzGXYQEk8E=",
 		"bin/wait-for-exit.js": "yjnUBgqy/AZ3KTSkake31uPyATAN7Dli0IsmWVVA9Co=",
-		"Config.bat": "KRzjvz3pD9uEJpYyI0WvM5Qfw9xtmga2ZdBODocoIYw=",
+		"Config.bat": "J0GwrYxgKaqPwDC5vrQTStRGc6aKJab/4XcHbP7nOtI=",
 		"mods/bugfix/chat-sanitizer.js": "hvoZ5qpwI6SsN/kANW/kYT/T2yY9NE4GzI4JW2xDoPc=",
 		"mods/bugfix/index.js": "XKp/svIJRC8H0tXA7SXuBpSA9ABrFo4MwBcRQOBWG+c=",
 		"mods/bugfix/manifest.json": "qDmV2AW+4oSpFdPiORuX6yRjZ5vHIdDyj4215rd0nMQ=",
@@ -1595,7 +1595,7 @@
 		"package.json": "RZhBLbBfXailywB81t+nTKwfdlA4gwPg9NrmXanFPx8=",
 		"README.md": "+wDljYXRP5rgNzulS1pvqa71i7Gin7NTV47eDis4QZo=",
 		"settings/_tera-proxy_.json": "fIzW5sakvVkTmsdXtfFPnlMuB+DkjTzk1xU2Dy6j/3E=",
-		"TeraProxy.bat": "IsiX+1A//IfVlWzA3hD/ZHoiZHiktOTqZ1gj/NzXW/s=",
+		"TeraProxy.bat": "oPgefQz4RhaZFWerpfTBv+9uXYrnVc4Gt6WI0nUhtug=",
 		"Uninstall.bat": "OdpJJjueZqZ1zboXZLe9mqRIsAp3eK8tEDwI66gFDeg="
 	}
 }
