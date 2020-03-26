@@ -1,5 +1,5 @@
 {
-	"branch": "win32",
+	"branch": "32bit",
 	"autoUpdate": true,
 	"autoUpdateMods": true,
 	"devWarnings": false
