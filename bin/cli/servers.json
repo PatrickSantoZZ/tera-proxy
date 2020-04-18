@@ -21,4 +21,3 @@
 	{ "region": "kr", "id": 9, "ip": "183.110.3.6", "port": 7801, "pvp": true, "name": "아룬의 영광" },
 	{ "region": "kr", "type": "classic", "id": 7, "ip": "183.110.3.5", "port": 7801, "pvp": true, "name": "클래식 서버" }
 ]
-]
