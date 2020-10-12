@@ -68,40 +68,8 @@ const logRoot = require('log'),
 	const modManager = new ModManager({
 		modsDir: path.join(__dirname, '..', '..', 'mods'),
 		settingsDir: path.join(__dirname, '..', '..', 'settings'),
-		// Disable at your own risk!
-		blacklist(pkg) {
-			const name = pkg.name
-
-			if(['CaaliLogger', 'CaaliStateTracker'].includes(name)) return 'Data collector'
-
-			// Note: This one is specifically blacklisted because the auto-update redirect will throw confusing errors otherwise
-			if(name === 'flasher') return 'Incompatible'
-
-			if([
-				'anti-cc',
-				'auto-fishing',
-				'auto-heal',
-				'auto retaliate',
-				'battleground-capper',
-				'berserker-unleash',
-				'corsair-memes',
-				'easy-fishing',
-				'fast-runeburst',
-				'fast solo dungeons',
-				'faster-petrax',
-				'instant-revive',
-				'kumas-royale-ru-tera',
-				'let-me-fish',
-				'let-me-target',
-				'op-zerker-unleash',
-				'parcel-memes',
-				'rtport'
-			].includes(name.toLowerCase()))
-				return 'High risk of ban'
-
-			if(name === 'Auto Target' && pkg.author === 'Fukki')
-				return 'Possible malware/riskware'
-		},
+		blacklist: require('./blacklist'),
+		publicKeys: require('./public-keys'),
 		autoUpdate: settings.autoUpdateMods
 	})
 
@@ -179,6 +147,13 @@ const logRoot = require('log'),
 					'Start TERA Proxy prior to any VPN software.',
 					'Make sure anti-virus software did not delete required files.',
 					'Open an administrator command prompt and enter \'sc stop windivert1.4\'.'
+				]
+				break
+			case 3:
+				msg = [
+					'Windows kernel cannot read the specified drive.',
+					'Install TERA Proxy on a local drive instead of a network drive.',
+					'Right click Uninstall.bat and select \'Run as administrator\', then try again.'
 				]
 				break
 			case 5:
